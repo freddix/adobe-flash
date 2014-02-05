@@ -1,13 +1,13 @@
 Summary:	Adobe Flash
 Name:		adobe-flash
-Version:	11.2.202.251
+Version:	11.2.202.336
 Release:	1
 License:	Oth
 Group:		X11/Applications
-Source0:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux_i386.tar.gz
-# Source0-md5:	946f25a67c1bab8c170d786429b00f8d
-Source1:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux_x86_64.tar.gz
-# Source1-md5:	4efd7f0a0041a26e6c148120bcc311bb
+Source0:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux.i386.tar.gz
+# Source0-md5:	bd7f77dfd0a03bbbd5d124febb8c83d5
+Source1:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux.x86_64.tar.gz
+# Source1-md5:	63d0a9b141f5a52cf9c7a71bd4f785f2
 Source2:	http://www.adobe.com/products/eulas/pdfs/PlatformClients_PC_WWEULA_Combined_20100108_1657.pdf
 # Source2-md5:	94ca2aecb409abfe36494d1a7ec7591d
 URL:		http://www.adobe.com/products/flashplayer/
