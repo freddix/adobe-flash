@@ -1,14 +1,14 @@
 # based on PLD Linux spec git://git.pld-linux.org/packages/adobe-flash.git
 Summary:	Adobe Flash
 Name:		adobe-flash
-Version:	11.2.202.411
+Version:	11.2.202.460
 Release:	1
-License:	Oth
+License:	Other
 Group:		X11/Applications
 Source0:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux.i386.tar.gz
-# Source0-md5:	71ab8f2060e3a03698900395cd5bb519
+# Source0-md5:	277986db685509cda324c004ddec2f0e
 Source1:	http://fpdownload.macromedia.com/get/flashplayer/pdc/%{version}/install_flash_player_11_linux.x86_64.tar.gz
-# Source1-md5:	af0763db8cfcf58e5522014947000b5a
+# Source1-md5:	56d4ca1b289de3b3b0e24ade8f3c07e0
 Source2:	http://www.adobe.com/products/eulas/pdfs/PlatformClients_PC_WWEULA_Combined_20100108_1657.pdf
 # Source2-md5:	94ca2aecb409abfe36494d1a7ec7591d
 URL:		http://www.adobe.com/products/flashplayer/
